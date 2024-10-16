@@ -1,0 +1,1 @@
+ERROR - 2024-04-06 02:35:07 --> MESSAGE: Deletes are not allowed unless they contain a "where" or "like" clause., FILE: /storage/ssd4/795/22013795/public_html/vendor/codeigniter4/framework/system/Database/BaseBuilder.php, LINE: 2766
