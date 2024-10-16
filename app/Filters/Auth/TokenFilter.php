@@ -13,7 +13,7 @@ use Config\Services;
 
 class TokenFilter implements FilterInterface
 {
-    protected Response $response;
+    protected Response $response; 
 
     use ResponseTrait;
 
